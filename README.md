@@ -41,7 +41,7 @@ Every motion, ripple, and transition is crafted to immerse users in a dynamic me
 
 👉 **Playable Audio (check it out besides the contact button in the navbar section)**
 
-**and many more, 3D animations, code architecture and reusability**
+**and many more including 3D animations, code architecture and reusability**
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -77,6 +77,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 
