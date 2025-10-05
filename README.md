@@ -38,7 +38,9 @@ we built a visually captivating gaming website Zentry, featuring scroll-triggere
 
 👉 **Customer Section**
 
-**and many more, including audio, 3D animations, code architecture and reusability**
+👉 **Playable Audio(beside the contact button in the navbar section**
+
+**and many more, 3D animations, code architecture and reusability**
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -74,6 +76,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 
