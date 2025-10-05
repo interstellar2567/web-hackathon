@@ -11,7 +11,7 @@
 
 
 ## <a name="introduction">🤖 Introduction</a>
-Zentry is a next-generation gaming experience built to blur the line between reality and play. Designed with cinematic visuals, scroll-triggered animations, and reactive soundscapes, it delivers a world where interaction feels alive.
+Zentry is a next-generation gaming experience wesbite built to blur the line between reality and play. Designed with cinematic visuals, scroll-triggered animations, and reactive soundscapes, it delivers a world where interaction feels alive.
 Every motion, ripple, and transition is crafted to immerse users in a dynamic metagame universe — fusing style, responsiveness, and emotion into a seamless digital adventure.
 
 
@@ -77,6 +77,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 
