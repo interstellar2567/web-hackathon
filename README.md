@@ -1,4 +1,4 @@
- <h1 align="center"> Zentry – Enter the Next Level of Gaming </h1>
+ <h1 align="center"> Zentry – Enter the Game Beyond Reality </h1>
 
 
 
@@ -76,6 +76,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 
