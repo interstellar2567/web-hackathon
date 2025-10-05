@@ -1,4 +1,4 @@
-<h1 align="center"> Zentry – Enter the Next Level of Gaming </h1>
+ <h1 align="center"> Zentry – Enter the Next Level of Gaming </h1>
 
 
 
@@ -38,7 +38,7 @@ we built a visually captivating gaming website Zentry, featuring scroll-triggere
 
 👉 **Customer Section**
 
-👉 **Playable Audio(beside the contact button in the navbar section**
+👉 **Playable Audio (check it out besides the contact button in the navbar section**
 
 **and many more, 3D animations, code architecture and reusability**
 
@@ -76,6 +76,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 
