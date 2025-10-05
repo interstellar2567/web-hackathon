@@ -31,11 +31,11 @@ Every motion, ripple, and transition is crafted to immerse users in a dynamic me
 
 👉 **Features/Services Section**
 
-👉 **Ripple Effect**
+👉 **Ripple Effect (can be seen when the cursor is moved in the features section)**
 
 👉 **Scroll and Pop-up**
 
-👉 **Home Page**
+👉 **Home Page** (click on the character's image shown and it takes you to another realm...)
 
 👉 **Customer Section**
 
@@ -77,6 +77,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 
