@@ -23,7 +23,7 @@ Every motion, ripple, and transition is crafted to immerse users in a dynamic me
 - GSAP
 - React.js
 - Tailwind CSS
-- (AI used: Github copilot, Canva AI, ChatGPT and Gemini)
+- (AI used: Github copilot, Canva AI, ChatGPT, Blackbox AI and Gemini)
 
 ## <a name="features">🔋 Features</a>
 
@@ -77,6 +77,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 
