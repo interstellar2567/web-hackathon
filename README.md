@@ -1,9 +1,6 @@
-<h3 align="center"> Website</h3>
+<h1 align="center"> Zentry – Enter the Next Level of Gaming </h1>
 
-   <div align="center">
-     !
-    </div>
-</div>
+
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -14,29 +11,34 @@
 
 
 ## <a name="introduction">🤖 Introduction</a>
+we built a visually captivating gaming website Zentry, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. It delivers a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness,
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
+- HTML
+- CSS
+- Javascript
 - GSAP
 - React.js
 - Tailwind CSS
+- (AI used: Github copilot, Canva AI, ChatGPT and Gemini)
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Scroll-Based Animations**: Dynamic animations triggered by scrolling for a more engaging user experience.
+👉 **Responsive Cards**
 
-👉 **Clip Path Shaped Animations**: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
+👉 **Features/Services Section**
 
-👉 **3D Hover Effects**: Interactive 3D transformations that respond to user interactions for a modern feel.
+👉 **Ripple Effect**
 
-👉 **Video Transitions**: Seamlessly integrated video elements to enhance storytelling and flow.
+👉 **Scroll and Pop-up**
 
-👉 **Smooth UI/UX**: Polished interfaces with buttery-smooth interactions for an intuitive user journey.
+👉 **Home Page**
 
-👉 **Completely Responsive**: Flawless adaptation across all devices, ensuring a consistent experience.
+👉 **Customer Section**
 
-and many more, including code architecture and reusability
+**and many more, including audio, 3D animations, code architecture and reusability**
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -72,6 +74,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 
